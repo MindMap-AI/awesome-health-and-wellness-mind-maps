@@ -1,4 +1,4 @@
-# Awesome Health & Wellness Mind Maps[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Health & Wellness Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 Boost personal and professional growth with project management and mind maps AI tailored for health &amp; wellness planning. Use AI-powered mind maps to structure wellness goals, track habits, and manage stress with clarity and efficiency.
