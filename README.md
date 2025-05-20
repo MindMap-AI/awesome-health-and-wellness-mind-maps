@@ -1,2 +1,27 @@
-# awesome-health-and-wellness-mind-maps
+# Awesome Health & Wellness Mind Maps
 Boost personal and professional growth with project management and mind maps AI tailored for health &amp; wellness planning. Use AI-powered mind maps to structure wellness goals, track habits, and manage stress with clarity and efficiency.
+
+- [Carbohydrate Metabolism and Digestion](https://mindmapai.app/mind-map/carbohydrate-metabolism-and-digestion-b5cdeac8)
+- [Combating Global Health Crises](https://mindmapai.app/mind-map/combating-global-health-crises-34d96740)
+- [Communication Strategies for NCD Prevention & Control](https://mindmapai.app/mind-map/communication-strategies-for-ncd-prevention-control-9bf848c5)
+- [Culture for Health (C4H)](https://mindmapai.app/mind-map/culture-for-health-c4h-c3a8f0bf)
+- [Emotional Wellness Toolkit for Empty Nesters](https://mindmapai.app/mind-map/emotional-wellness-toolkit-for-empty-nesters-9e8347f4)
+- [Factors Influencing Teenage Mental Health](https://mindmapai.app/mind-map/factors-influencing-teenage-mental-health-f07ecd1b)
+- [Healthy Breakfast Choices](https://mindmapai.app/mind-map/healthy-breakfast-choices-eacef8d7)
+- [Intervention Impacting Family Physicians](https://mindmapai.app/mind-map/intervention-impacting-family-physicians-f9453ced)
+- [Mental Health](https://mindmapai.app/mind-map/mental-health-1f356a67)
+- [Mental Health & Mental Health Nursing](https://mindmapai.app/mind-map/mental-health-mental-health-nursing-323a524c)
+- [Mental Peak Performance](https://mindmapai.app/mind-map/mental-peak-performance-8cdb4c01)
+- [Nutritional Benefits of Fruits](https://mindmapai.app/mind-map/nutritional-benefits-of-fruits-d8ec8cb9)
+- [Obesity](https://mindmapai.app/mind-map/obesity-6d9c018b)
+- [Occupational Safety and Health in O.R.](https://mindmapai.app/mind-map/occupational-safety-and-health-in-o.r.-231b4371)
+- [Physical Development: Keeping Healthy & Safe](https://mindmapai.app/mind-map/physical-development-keeping-healthy-safe-9453bbbc)
+- [Reducing Menstrual Cramps & Heavy Bleeding](https://mindmapai.app/mind-map/reducing-menstrual-cramps-heavy-bleeding-d14ddab5)
+- [Reset Your Brain in 7 Days: Dopamine Detox](https://mindmapai.app/mind-map/reset-your-brain-in-7-days-dopamine-detox-50aea2af)
+- [SELF-CARE Methodology for Stress Detection](https://mindmapai.app/mind-map/self-care-methodology-for-stress-detection-50c0be6c)
+- [Seven Steps to Boost Your Mood](https://mindmapai.app/mind-map/seven-steps-to-boost-your-mood-8d1522d7)
+- [The Power of Habit](https://mindmapai.app/mind-map/the-power-of-habit-33ce3769)
+- [Tips to Manage Stress & Avoid Burnout](https://mindmapai.app/mind-map/tips-to-manage-stress-avoid-burnout-a3391549)
+- [Vitamins](https://mindmapai.app/mind-map/vitamins-af8c4be6)
+- [Well-being](https://mindmapai.app/mind-map/well-being-05aa2d12)
+- [Wound Dressings and Their Uses](https://mindmapai.app/mind-map/wound-dressings-and-their-uses-342729f4)
